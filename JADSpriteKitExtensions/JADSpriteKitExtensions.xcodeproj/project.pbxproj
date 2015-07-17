@@ -1,0 +1,292 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		BD855DBE1B555C2300675FF7 /* JADSKNodeWithGestureRecognizersOnView.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = BDD315C71B532DC000D814D6 /* JADSKNodeWithGestureRecognizersOnView.h */; };
+		BD855DBF1B555C2B00675FF7 /* JADSKSceneWithGestureRecognizersOnView.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = BDD315C91B532DC000D814D6 /* JADSKSceneWithGestureRecognizersOnView.h */; };
+		BD855DC01B555C3000675FF7 /* JADSKScrollingNode.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = BDD315CD1B532DC000D814D6 /* JADSKScrollingNode.h */; };
+		BD855DD91B599E5200675FF7 /* JADSKScrollingWindowNode.m in Sources */ = {isa = PBXBuildFile; fileRef = BD855DD81B599E5200675FF7 /* JADSKScrollingWindowNode.m */; };
+		BD855DDE1B599F3F00675FF7 /* JADSKScrollingWindowNode.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = BD855DD71B599E5200675FF7 /* JADSKScrollingWindowNode.h */; };
+		BDD315AD1B50117C00D814D6 /* JADSpriteKitExtensions.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = BDD315AC1B50117C00D814D6 /* JADSpriteKitExtensions.h */; };
+		BDD315C41B50137800D814D6 /* SpriteKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BDD315C31B50137800D814D6 /* SpriteKit.framework */; };
+		BDD315D21B532DC000D814D6 /* JADSKNodeWithGestureRecognizersOnView.m in Sources */ = {isa = PBXBuildFile; fileRef = BDD315C81B532DC000D814D6 /* JADSKNodeWithGestureRecognizersOnView.m */; };
+		BDD315D41B532DC000D814D6 /* JADSKSceneWithGestureRecognizersOnView.m in Sources */ = {isa = PBXBuildFile; fileRef = BDD315CA1B532DC000D814D6 /* JADSKSceneWithGestureRecognizersOnView.m */; };
+		BDD315D81B532DC000D814D6 /* JADSKScrollingNode.m in Sources */ = {isa = PBXBuildFile; fileRef = BDD315CE1B532DC000D814D6 /* JADSKScrollingNode.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		BDD315A71B50117C00D814D6 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "include/$(PRODUCT_NAME)";
+			dstSubfolderSpec = 16;
+			files = (
+				BD855DDE1B599F3F00675FF7 /* JADSKScrollingWindowNode.h in CopyFiles */,
+				BD855DC01B555C3000675FF7 /* JADSKScrollingNode.h in CopyFiles */,
+				BDD315AD1B50117C00D814D6 /* JADSpriteKitExtensions.h in CopyFiles */,
+				BD855DBE1B555C2300675FF7 /* JADSKNodeWithGestureRecognizersOnView.h in CopyFiles */,
+				BD855DBF1B555C2B00675FF7 /* JADSKSceneWithGestureRecognizersOnView.h in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		BD855DAA1B5552C800675FF7 /* libJADSpriteKitExtensions.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libJADSpriteKitExtensions.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		BD855DD71B599E5200675FF7 /* JADSKScrollingWindowNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JADSKScrollingWindowNode.h; sourceTree = "<group>"; };
+		BD855DD81B599E5200675FF7 /* JADSKScrollingWindowNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JADSKScrollingWindowNode.m; sourceTree = "<group>"; };
+		BDD315AC1B50117C00D814D6 /* JADSpriteKitExtensions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JADSpriteKitExtensions.h; sourceTree = "<group>"; };
+		BDD315C31B50137800D814D6 /* SpriteKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SpriteKit.framework; path = System/Library/Frameworks/SpriteKit.framework; sourceTree = SDKROOT; };
+		BDD315C71B532DC000D814D6 /* JADSKNodeWithGestureRecognizersOnView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JADSKNodeWithGestureRecognizersOnView.h; sourceTree = "<group>"; };
+		BDD315C81B532DC000D814D6 /* JADSKNodeWithGestureRecognizersOnView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JADSKNodeWithGestureRecognizersOnView.m; sourceTree = "<group>"; };
+		BDD315C91B532DC000D814D6 /* JADSKSceneWithGestureRecognizersOnView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JADSKSceneWithGestureRecognizersOnView.h; sourceTree = "<group>"; };
+		BDD315CA1B532DC000D814D6 /* JADSKSceneWithGestureRecognizersOnView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JADSKSceneWithGestureRecognizersOnView.m; sourceTree = "<group>"; };
+		BDD315CD1B532DC000D814D6 /* JADSKScrollingNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JADSKScrollingNode.h; sourceTree = "<group>"; };
+		BDD315CE1B532DC000D814D6 /* JADSKScrollingNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JADSKScrollingNode.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		BDD315A61B50117C00D814D6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BDD315C41B50137800D814D6 /* SpriteKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		BDD315A01B50117C00D814D6 = {
+			isa = PBXGroup;
+			children = (
+				BDD315C31B50137800D814D6 /* SpriteKit.framework */,
+				BDD315AB1B50117C00D814D6 /* JADSpriteKitExtensions */,
+				BD855DAA1B5552C800675FF7 /* libJADSpriteKitExtensions.a */,
+			);
+			sourceTree = "<group>";
+		};
+		BDD315AB1B50117C00D814D6 /* JADSpriteKitExtensions */ = {
+			isa = PBXGroup;
+			children = (
+				BD855DD71B599E5200675FF7 /* JADSKScrollingWindowNode.h */,
+				BD855DD81B599E5200675FF7 /* JADSKScrollingWindowNode.m */,
+				BDD315C71B532DC000D814D6 /* JADSKNodeWithGestureRecognizersOnView.h */,
+				BDD315C81B532DC000D814D6 /* JADSKNodeWithGestureRecognizersOnView.m */,
+				BDD315C91B532DC000D814D6 /* JADSKSceneWithGestureRecognizersOnView.h */,
+				BDD315CA1B532DC000D814D6 /* JADSKSceneWithGestureRecognizersOnView.m */,
+				BDD315CD1B532DC000D814D6 /* JADSKScrollingNode.h */,
+				BDD315CE1B532DC000D814D6 /* JADSKScrollingNode.m */,
+				BDD315AC1B50117C00D814D6 /* JADSpriteKitExtensions.h */,
+			);
+			path = JADSpriteKitExtensions;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		BDD315A81B50117C00D814D6 /* JADSpriteKitExtensions */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BDD315BD1B50117C00D814D6 /* Build configuration list for PBXNativeTarget "JADSpriteKitExtensions" */;
+			buildPhases = (
+				BDD315A51B50117C00D814D6 /* Sources */,
+				BDD315A61B50117C00D814D6 /* Frameworks */,
+				BDD315A71B50117C00D814D6 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = JADSpriteKitExtensions;
+			productName = JADSpriteKitExtensions;
+			productReference = BD855DAA1B5552C800675FF7 /* libJADSpriteKitExtensions.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BDD315A11B50117C00D814D6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0630;
+				ORGANIZATIONNAME = "Jennifer Dobson";
+				TargetAttributes = {
+					BDD315A81B50117C00D814D6 = {
+						CreatedOnToolsVersion = 6.3.2;
+					};
+				};
+			};
+			buildConfigurationList = BDD315A41B50117C00D814D6 /* Build configuration list for PBXProject "JADSpriteKitExtensions" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = BDD315A01B50117C00D814D6;
+			productRefGroup = BDD315A01B50117C00D814D6;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BDD315A81B50117C00D814D6 /* JADSpriteKitExtensions */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		BDD315A51B50117C00D814D6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BDD315D41B532DC000D814D6 /* JADSKSceneWithGestureRecognizersOnView.m in Sources */,
+				BDD315D21B532DC000D814D6 /* JADSKNodeWithGestureRecognizersOnView.m in Sources */,
+				BD855DD91B599E5200675FF7 /* JADSKScrollingWindowNode.m in Sources */,
+				BDD315D81B532DC000D814D6 /* JADSKScrollingNode.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		BDD315BB1B50117C00D814D6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PUBLIC_HEADERS_FOLDER_PATH = "include/$(PROJECT_NAME)";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		BDD315BC1B50117C00D814D6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PUBLIC_HEADERS_FOLDER_PATH = "include/$(PROJECT_NAME)";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		BDD315BE1B50117C00D814D6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEAD_CODE_STRIPPING = NO;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(USER_LIBRARY_DIR)/Developer/Xcode/DerivedData/JADSpriteKitExtensions-dkqaqhssnurzmsbpcuzhtrdsgwyp/Build/Products/Debug-iphoneos",
+				);
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "include/$(PROJECT_NAME)";
+				SKIP_INSTALL = YES;
+				STRIP_STYLE = "non-global";
+			};
+			name = Debug;
+		};
+		BDD315BF1B50117C00D814D6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEAD_CODE_STRIPPING = NO;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(USER_LIBRARY_DIR)/Developer/Xcode/DerivedData/JADSpriteKitExtensions-dkqaqhssnurzmsbpcuzhtrdsgwyp/Build/Products/Debug-iphoneos",
+				);
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "include/$(PROJECT_NAME)";
+				SKIP_INSTALL = YES;
+				STRIP_STYLE = "non-global";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BDD315A41B50117C00D814D6 /* Build configuration list for PBXProject "JADSpriteKitExtensions" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BDD315BB1B50117C00D814D6 /* Debug */,
+				BDD315BC1B50117C00D814D6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BDD315BD1B50117C00D814D6 /* Build configuration list for PBXNativeTarget "JADSpriteKitExtensions" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BDD315BE1B50117C00D814D6 /* Debug */,
+				BDD315BF1B50117C00D814D6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BDD315A11B50117C00D814D6 /* Project object */;
+}

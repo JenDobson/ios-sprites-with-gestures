@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B13B67A6-01A5-41C6-8210-FFAC23C2983C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JADSKSpriteKitExtensionsDevApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2BA26A2C06D779079CE2ACCE7F95E08DDD2309B4</key>
+		<string>https://github.com/JenDobson/ios-sprites-with-gestures</string>
+		<key>A492513AC9D5A2292F475A6361D5270DB90FB284</key>
+		<string>https://github.com/JenDobson/using-ios-sprites-with-gestures.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JADSpriteKitExtensionsDevApp/JADSKSpriteKitExtensionsDevApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2BA26A2C06D779079CE2ACCE7F95E08DDD2309B4</key>
+		<string>../../..</string>
+		<key>A492513AC9D5A2292F475A6361D5270DB90FB284</key>
+		<string>../../../../JADSKSpriteKitExtensionsDevApp</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JenDobson/ios-sprites-with-gestures</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2BA26A2C06D779079CE2ACCE7F95E08DDD2309B4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2BA26A2C06D779079CE2ACCE7F95E08DDD2309B4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-sprites-with-gestures</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A492513AC9D5A2292F475A6361D5270DB90FB284</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JADSKSpriteKitExtensionsDevApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
